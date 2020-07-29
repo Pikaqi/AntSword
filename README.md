@@ -1,8 +1,7 @@
 # AntSword-Experiment
-该资源为中国蚁剑，包括Windows和Kali两个版本及安全教程。希望对您有所帮助~
+This resource is Chinese Ant Sword, including two versions of Windows and Kali and security tutorials. Hope to help you~
 
-
-下载请先校验文件HASH：
+Please verify the file HASH before downloading：
 
 	AntSword-Loader-v4.0.3-win32-x64.zip
 
@@ -20,6 +19,6 @@ SHA1: 5F842084C38C459D069B8D25EC0776B272E3535A
 SHA256: 02EB59B190D00E0B21772B9B994FFE6D84BC90478F03E87EBA572FBF6DEB5FF1
 
 
-参考文章：
+Reference article:
 - [https://github.com/AntSwordProject](https://github.com/AntSwordProject)
 
